@@ -186,7 +186,7 @@ body {
 .toast p {
   margin: 0;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .toast p:first-letter {
@@ -201,6 +201,7 @@ body {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
+  font-size: 14px;
   font-weight: 500;
   cursor: pointer;
 }
